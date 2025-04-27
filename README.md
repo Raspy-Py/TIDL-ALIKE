@@ -1,6 +1,4 @@
-# Development enviromnet for converting, testing, benchmarking and deploying ALIKE to BeagleBone AI-64
-
-# ALIKE Project Documentation
+# Development environment for converting, testing, benchmarking and deploying ALIKE to BeagleBone AI-64
 
 ## Table of Contents
 Model Manipulation:
