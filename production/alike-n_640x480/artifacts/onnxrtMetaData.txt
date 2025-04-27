@@ -1,0 +1,13 @@
+numGraphNodes=45
+0:subGraphName=134
+0:numInputs=1
+0:numOutputs=1
+0:inputIdx=0
+0:inDataNames=image
+0:outDataNames=134
+1:subGraphName=scores_map
+1:numInputs=1
+1:numOutputs=1
+1:inputIdx=0
+1:inDataNames=136
+1:outDataNames=scores_map
