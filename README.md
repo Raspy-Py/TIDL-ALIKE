@@ -1,4 +1,4 @@
-# Development enviromnet for conveting, testing, benchmarking and deploying ALIKE to BeagleBone AI-64
+# Development enviromnet for converting, testing, benchmarking and deploying ALIKE to BeagleBone AI-64
 
 # ALIKE Project Documentation
 
