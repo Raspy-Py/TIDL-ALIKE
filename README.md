@@ -230,7 +230,7 @@ This script packages an ONNX model with its TIDL artifacts and deployment script
 
 ### ALIKE
 
-This project uses the ALIKE (Accurate LIKElihood keypoint detector) model developed by:
+This project uses the ALIKE model developed by:
 
 - Jiaming Zhang, Xiaolong Jiang, Jian Wang, Pengfei Li, Kuo-Chin Lien, Yingtian Liu, Zhe Liu, and Yun Fu
 - Northeastern University and Lumen Technologies
