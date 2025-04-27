@@ -1,0 +1,9 @@
+h: 192
+w: 256
+model_path: "./model.onnx"
+artifacts_path: "./artifacts"
+
+# These you tweak for your needs
+kernel: 4 # size of the tiles, on which argmax is performed during keypoint detection phase
+padding: 2 # inner zero padding of the score_map
+n_descriptors: 200
